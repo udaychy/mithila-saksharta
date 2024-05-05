@@ -1,0 +1,19 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "name": "Uday",
+      "mark": "10",
+      "totalMark": "10",
+      "date": "05/05/2024"
+    },
+    
+    {
+      "id": 2,
+      "name": "Uday",
+      "mark": "10",
+      "totalMark": "10",
+      "date": "05/05/2024"
+    }
+  ]
+}
